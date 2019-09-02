@@ -1,0 +1,40 @@
+<div class="body">
+  <div class="container">
+    <div class="d-flex justify-content-center h-100">
+      <div class="card">
+        <div class="card-header">
+          <h3>Regístrece</h3>
+          <div class="d-flex justify-content-end social_icon imagen">
+              <span><img src="../assets/img/icons/icono logo_dini.png" alt="ícono dini"></span>
+          </div>
+        </div>
+        <div class="card-body">
+          <form>
+            <!--Agregar íncono de usuario-->
+            <div class="input-group form-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><img src="../assets/img/icons/icono_user.png" alt="ícono de usuario"></span>
+              </div>
+
+              <input type="text" class="form-control" placeholder="usuario">
+
+            </div>
+            <!--Agregar íncono de contraseña-->
+            <div class="input-group form-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text"><img src="../assets/img/icons/icono_password.png" alt="ícono de password"></span>
+              </div>
+              <input type="password" class="form-control" placeholder="contraseña">
+            </div>
+            
+            <div class="form-group">
+              <button (click)="Siguiente()" class="btn float-right login_btn">Iniciar sesión</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

@@ -1,0 +1,8 @@
+Crear archivo EXCEL: https://medium.com/@madhavmahesh/exporting-an-excel-file-in-angular-927756ac9857
+
+Conectar Sptring con SQL server: https://springframework.guru/configuring-spring-boot-for-microsoft-sql-server/
+
+Dependencia para conectarSQL server con spring (agregarlo al POM) de spring: https://blogs.msdn.microsoft.com/jdbcteam/2016/11/17/open-source-jdbc-maven/
+
+Genear archivo WAR: https://www.youtube.com/watch?v=clmty80-828
+
