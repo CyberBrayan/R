@@ -1,0 +1,12 @@
+1. Matriz donde ubico todos los pappers leídos.
+
+Los que fueron aceptados y los que fueron rechazados.
+
+¿Porqué fueron rechazados?
+
+2. Porque estoy utilizando algoritmos de recomendación y porque el lenguaje en el que lo estoy haciendo es mejor.
+
+Matriz de confusión
+
+Todos lo que exponen con IA tener su matriz de confusion , su score, recall, sensibilidad , precision o al 
+menos la matriz de congudion bien claro
